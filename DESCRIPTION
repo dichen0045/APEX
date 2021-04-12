@@ -1,0 +1,23 @@
+Package: APEXFunction
+Type: Package
+Title: Function
+Version: 0.1.1
+Author: di chen
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: dplyr,
+        roxygen2,
+        methods,
+        rio,
+        tidyr,
+        readxl,
+        stringr,
+        utils,
+        rlang,
+        readr
+RoxygenNote: 6.1.1
+
